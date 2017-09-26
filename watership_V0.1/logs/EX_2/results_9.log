@@ -1,0 +1,5555 @@
+Día 0 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf128> 3
+6
+<individuo.Conejo object at 0x7f46c56bf048> 1
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf128> 3
+Energia 4/18
+Inventario 0/18
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730cc0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf128>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730cc0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf048> 1
+Energia 4/18
+Inventario 0/20
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730c88>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf048>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730c88>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 5/20
+Inventario 0/20
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730cc0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730cc0>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 4/18
+Inventario 0/19
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730cf8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730cf8>)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+0
+silflar
+3
+silflar
+1
+silflar
+
+
+
+
+Día 0 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 4/18
+Inventario 0/18
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730d68>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730d68>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 4/18
+Inventario 0/20
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730d68>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730d68>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 5/20
+Inventario 0/20
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730d68>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730d68>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 4/18
+Inventario 0/19
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730da0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730da0>)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+6
+silflar
+5
+silflar
+7
+silflar
+
+
+
+
+Día 0 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 10/30
+Inventario 0/24
+Felicidad 50
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+
+#########  ACTUAR  #########
+0
+migrar
+
+
+
+
+Día 0 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf400> 1
+6
+
+
+<individuo.Zorro object at 0x7f46c56bf400> 1
+Energia 10/30
+Inventario 0/24
+Felicidad 50
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+
+#########  ACTUAR  #########
+1
+migrar
+
+
+
+
+Día 1 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf128> 3
+6
+<individuo.Conejo object at 0x7f46c56bf048> 1
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 8/30
+Inventario 0/24
+Felicidad 45
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf128>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf128>)
+
+
+<individuo.Conejo object at 0x7f46c56bf128> 3
+Energia 2/18
+Inventario 7/18
+Felicidad 47
+Opciones
+[(('Esconder',), 11), (('Comer',), 10), (('Silflar', <planta.Planta object at 0x7f46c5730c88>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf128>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf128>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c56bf048> 1
+Energia 2/18
+Inventario 6/20
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Silflar', <planta.Planta object at 0x7f46c5730cc0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf048>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf128>), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 3/20
+Inventario 20/20
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf128>), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 2/18
+Inventario 8/19
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Silflar', <planta.Planta object at 0x7f46c5730cc0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf128>), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+comer
+0
+comer
+0
+silflar
+1
+comer
+
+
+
+
+Día 1 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 2/18
+Inventario 7/18
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Silflar', <planta.Planta object at 0x7f46c56bf5c0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 2/18
+Inventario 6/20
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Silflar', <planta.Planta object at 0x7f46c56bf518>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 3/20
+Inventario 20/20
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 2/18
+Inventario 8/19
+Felicidad 47
+Opciones
+[(('Comer',), 10), (('Silflar', <planta.Planta object at 0x7f46c56bf588>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+4
+comer
+6
+comer
+5
+comer
+7
+comer
+
+
+
+
+Día 1 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf400> 1
+6
+
+
+<individuo.Zorro object at 0x7f46c56bf400> 1
+Energia 8/30
+Inventario 0/24
+Felicidad 45
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+
+#########  ACTUAR  #########
+1
+migrar
+
+
+
+
+Día 1 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 2 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf048> 1
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 6/30
+Inventario 24/24
+Felicidad 42
+Opciones
+[(('Comer',), 10), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf048> 1
+Energia 8/18
+Inventario 0/20
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bfb00>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf048>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bfb00>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 3/20
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bfc18>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bfc18>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 10/18
+Inventario 0/19
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730cf8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730cf8>)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+0
+silflar
+0
+comer
+1
+silflar
+
+
+
+
+Día 2 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 9/18
+Inventario 0/18
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf4e0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf4e0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 0/20
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bfda0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bfda0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 20/20
+Inventario 3/20
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bfcf8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bfcf8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 10/18
+Inventario 0/19
+Felicidad 44
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf4e0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf4e0>)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+6
+silflar
+5
+silflar
+7
+silflar
+
+
+
+
+Día 2 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 2 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf400> 1
+6
+
+
+<individuo.Zorro object at 0x7f46c56bf400> 1
+Energia 6/30
+Inventario 0/24
+Felicidad 40
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+
+#########  ACTUAR  #########
+1
+migrar
+
+
+
+
+Día 3 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf048> 1
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 30/30
+Inventario 0/24
+Felicidad 39
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf048>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf048>)
+
+
+<individuo.Conejo object at 0x7f46c56bf048> 1
+Energia 6/18
+Inventario 4/20
+Felicidad 41
+Opciones
+[(('Esconder',), 11), (('Silflar', <planta.Planta object at 0x7f46c56c4668>), 8), (('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf048>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf048>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 17/20
+Felicidad 41
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56bfbe0>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf048>), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 8/18
+Inventario 8/19
+Felicidad 41
+Opciones
+[(('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56bfb38>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf048>), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+0
+comer
+0
+silflar
+
+
+
+
+Día 3 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf400> 1
+6
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf400> 1
+Energia 4/30
+Inventario 0/24
+Felicidad 35
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf278>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf278>)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 7/18
+Inventario 0/18
+Felicidad 41
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4a90>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf278>), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4a90>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 6/18
+Inventario 6/20
+Felicidad 41
+Opciones
+[(('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56c4898>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf278>), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 18/20
+Inventario 8/20
+Felicidad 41
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c49b0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf278>), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c49b0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 8/19
+Felicidad 41
+Opciones
+[(('Esconder',), 11), (('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56c4a58>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf278>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+Sa escapado
+5
+silflar
+7
+comer
+
+
+
+
+Día 3 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 3 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 4 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 28/30
+Inventario 24/24
+Felicidad 36
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 17/20
+Felicidad 36
+Opciones
+[(('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2a20>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 0/19
+Felicidad 38
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4780>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4780>)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+0
+silflar
+0
+DdV
+
+
+
+
+Día 4 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf400> 1
+6
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf400> 1
+Energia 2/30
+Inventario 0/24
+Felicidad 30
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf198>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Zorro object at 0x7f46c56bf400>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf198>)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 5/18
+Inventario 6/18
+Felicidad 38
+Opciones
+[(('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56bfcc0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf198>), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 12/18
+Inventario 0/20
+Felicidad 38
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4898>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf198>), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4898>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 16/20
+Inventario 14/20
+Felicidad 38
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Silflar', <planta.Planta object at 0x7f46c56c4b38>), 1), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf198>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 8/19
+Felicidad 36
+Opciones
+[(('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56d2c50>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf198>), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+6
+comer
+Sa escapado
+5
+comer
+7
+silflar
+
+
+
+
+Día 4 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 4 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 5 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 24/30
+Inventario 24/24
+Felicidad 31
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 17/20
+Felicidad 31
+Opciones
+[(('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2828>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 14/18
+Inventario 9/19
+Felicidad 35
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c47b8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c47b8>)
+
+
+
+#########  ACTUAR  #########
+2
+comer
+0
+silflar
+0
+DdV
+
+
+
+
+Día 5 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 11/18
+Inventario 0/18
+Felicidad 35
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4828>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4828>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 10/18
+Inventario 7/20
+Felicidad 35
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4940>), 3), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4940>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 16/20
+Inventario 14/20
+Felicidad 33
+Opciones
+[(('DanzaDelVientre',), 9), (('Silflar', <planta.Planta object at 0x7f46c56c4908>), 1), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 0/19
+Felicidad 33
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4b00>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4b00>)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+6
+silflar
+5
+silflar
+7
+silflar
+
+
+
+
+Día 5 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 5 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 6 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 20/30
+Inventario 24/24
+Felicidad 26
+Opciones
+[(('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 7/20
+Felicidad 28
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c47f0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c47f0>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 18/19
+Felicidad 32
+Opciones
+[(('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2be0>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+0
+DdV
+0
+DdV
+
+
+
+
+Día 6 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 9/18
+Inventario 8/18
+Felicidad 32
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf5c0>), 3), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf5c0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 14/20
+Felicidad 32
+Opciones
+[(('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56bfd30>), 1), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 12/20
+Inventario 14/20
+Felicidad 28
+Opciones
+[(('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bf5c0>), 1), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 14/18
+Inventario 9/19
+Felicidad 30
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf4e0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf4e0>)
+
+
+
+#########  ACTUAR  #########
+4
+comer
+6
+silflar
+5
+silflar
+7
+comer
+
+
+
+
+Día 6 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 6 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 7 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 16/30
+Inventario 24/24
+Felicidad 21
+Opciones
+[(('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 15/20
+Felicidad 25
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2ac8>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 8/18
+Inventario 18/19
+Felicidad 27
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4668>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+0
+comer
+0
+comer
+
+
+
+
+Día 7 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 7/18
+Inventario 17/18
+Felicidad 29
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2c50>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 4/20
+Felicidad 29
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf518>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf518>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 20/20
+Inventario 6/20
+Felicidad 25
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730d30>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730d30>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad 27
+Opciones
+[(('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+6
+DdV
+5
+comer
+7
+silflar
+
+
+
+
+Día 7 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 7 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 8 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 30/30
+Inventario 10/24
+Felicidad 18
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 15/20
+Felicidad 20
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2b70>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 8/19
+Felicidad 24
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4668>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4668>)
+
+
+
+#########  ACTUAR  #########
+0
+silflar
+Sa escapado
+
+
+
+
+Día 8 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 18/18
+Inventario 6/18
+Felicidad 26
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4b00>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4b00>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 12/20
+Felicidad 26
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4860>), 1), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4860>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 18/20
+Inventario 16/20
+Felicidad 22
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56c4a90>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad 22
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+6
+comer
+5
+silflar
+7
+silflar
+
+
+
+
+Día 8 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 8 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 9 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 28/30
+Inventario 10/24
+Felicidad 13
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 15/20
+Felicidad 15
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2978>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 17/19
+Felicidad 21
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Silflar', <planta.Planta object at 0x7f46c5730cf8>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+Sa escapado
+
+
+
+
+Día 9 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 16/18
+Inventario 15/18
+Felicidad 23
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2c18>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 14/18
+Inventario 20/20
+Felicidad 23
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 14/20
+Inventario 16/20
+Felicidad 17
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4ba8>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 9/19
+Felicidad 19
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2e48>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2e48>)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+6
+silflar
+5
+DdV
+7
+DdV
+
+
+
+
+Día 9 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 9 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 10 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 26/30
+Inventario 10/24
+Felicidad 8
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 15/20
+Felicidad 10
+Opciones
+[(('Esconder',), 11), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2978>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 17/19
+Felicidad 16
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2a58>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+0
+DdV
+Sa escapado
+
+
+
+
+Día 10 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 12/18
+Inventario 15/18
+Felicidad 18
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4898>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 10/18
+Inventario 20/20
+Felicidad 18
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 10/20
+Inventario 16/20
+Felicidad 12
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2c18>), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 19/19
+Felicidad 16
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+6
+DdV
+5
+DdV
+7
+migrar
+
+
+
+
+Día 10 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 10 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 11 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 24/30
+Inventario 10/24
+Felicidad 3
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 15/20
+Felicidad 5
+Opciones
+[(('Esconder',), 11), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d27b8>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 17/19
+Felicidad 11
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2b00>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+0
+DdV
+Sa escapado
+
+
+
+
+Día 11 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 8/18
+Inventario 15/18
+Felicidad 13
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c49e8>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad 11
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+6
+DdV
+5
+comer
+
+
+
+
+Día 11 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 20/20
+Felicidad 13
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+7
+comer
+
+
+
+
+Día 11 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 8/20
+Inventario 16/20
+Felicidad 7
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+4
+comer
+
+
+
+
+Día 12 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 22/30
+Inventario 10/24
+Felicidad -2
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf0b8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 15/20
+Felicidad 0
+Opciones
+[(('Esconder',), 11), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56bfc18>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 8/18
+Inventario 17/19
+Felicidad 6
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2940>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf0b8>), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+0
+comer
+Sa escapado
+
+
+
+
+Día 12 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 18/18
+Inventario 5/18
+Felicidad 10
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2e80>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2e80>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad 6
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+6
+comer
+5
+silflar
+
+
+
+
+Día 12 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 10/20
+Felicidad 10
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4e10>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+
+#########  ACTUAR  #########
+7
+migrar
+
+
+
+
+Día 12 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 20/20
+Inventario 4/20
+Felicidad 4
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4588>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4588>)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+
+
+
+
+Día 13 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 20/30
+Inventario 10/24
+Felicidad -7
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 10/20
+Felicidad 5
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4748>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 15/20
+Felicidad -5
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4748>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 7/19
+Felicidad 3
+Opciones
+[(('Esconder',), 11), (('Silflar', <planta.Planta object at 0x7f46c56d25c0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+2
+migrar
+Sa escapado
+7
+migrar
+
+
+
+
+Día 13 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 16/18
+Inventario 13/18
+Felicidad 7
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c5730da0>), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 9/19
+Felicidad 3
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4c50>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4c50>)
+
+
+
+#########  ACTUAR  #########
+6
+silflar
+5
+DdV
+
+
+
+
+Día 13 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 13 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 18/20
+Inventario 20/20
+Felicidad 1
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+
+
+
+
+Día 14 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 18/30
+Inventario 10/24
+Felicidad -12
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 7/19
+Felicidad -2
+Opciones
+[(('Esconder',), 11), (('Silflar', <planta.Planta object at 0x7f46c56d27b8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 14 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 12/18
+Inventario 13/18
+Felicidad 2
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4a90>), 1), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 14/18
+Inventario 10/20
+Felicidad 0
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4a20>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 8/20
+Inventario 15/20
+Felicidad -10
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56bf208>), 0), (('Silflar', <planta.Planta object at 0x7f46c56bfd30>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 19/19
+Felicidad 0
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+comer
+6
+DdV
+5
+DdV
+7
+migrar
+
+
+
+
+Día 14 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 14 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 14/20
+Inventario 20/20
+Felicidad -4
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+
+
+
+
+Día 15 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 16/30
+Inventario 10/24
+Felicidad -17
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 7/19
+Felicidad -7
+Opciones
+[(('Esconder',), 11), (('Silflar', <planta.Planta object at 0x7f46c56c4630>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 15 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 8/18
+Inventario 13/18
+Felicidad -3
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4a58>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 3/20
+Felicidad -13
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2c88>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2c88>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad -5
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+6
+DdV
+5
+comer
+
+
+
+
+Día 15 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 12/18
+Inventario 10/20
+Felicidad -5
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2080>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+
+#########  ACTUAR  #########
+7
+migrar
+
+
+
+
+Día 15 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 10/20
+Inventario 20/20
+Felicidad -9
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+
+
+
+
+Día 16 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 14/30
+Inventario 10/24
+Felicidad -22
+Opciones
+[(('Comer',), 5), (('Silflar', <individuo.Conejo object at 0x7f46c56bf2e8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 10/18
+Inventario 10/20
+Felicidad -10
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2940>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 7/19
+Felicidad -12
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c5730d30>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c5730d30>)
+
+
+
+#########  ACTUAR  #########
+0
+silflar
+0
+comer
+7
+migrar
+
+
+
+
+Día 16 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 18/18
+Inventario 3/18
+Felicidad -6
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2d30>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2d30>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 20/20
+Felicidad -16
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad -10
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56bf0b8>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+6
+comer
+5
+silflar
+
+
+
+
+Día 16 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 8/20
+Inventario 20/20
+Felicidad -14
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+4
+comer
+
+
+
+
+Día 16 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 17 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 24/30
+Inventario 0/24
+Felicidad -25
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -15
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bfb38>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 17 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 16/18
+Inventario 12/18
+Felicidad -9
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2c88>), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 20/20
+Felicidad -21
+Opciones
+[(('Reproducirse', <individuo.Conejo object at 0x7f46c56bf208>), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('Reproducirse', <individuo.Conejo object at 0x7f46c56bf208>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 9/19
+Felicidad -13
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4a58>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4a58>)
+
+
+
+#########  ACTUAR  #########
+2
+procrear
+6
+silflar
+5
+DdV
+
+
+
+
+Día 17 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 20/20
+Inventario 8/20
+Felicidad -17
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4f28>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4f28>)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+
+
+
+
+Día 17 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 10/20
+Felicidad -15
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2198>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+7
+comer
+
+
+
+
+Día 18 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 22/30
+Inventario 0/24
+Felicidad -30
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -20
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2908>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 18 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 12/18
+Inventario 12/18
+Felicidad 6
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bfb00>), 1), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 20/20
+Felicidad -6
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 19/19
+Felicidad -16
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+migrar
+6
+DdV
+5
+migrar
+
+
+
+
+Día 18 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 18/20
+Inventario 14/20
+Felicidad -20
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bf7f0>), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+
+
+
+
+Día 18 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 0/20
+Felicidad -18
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2320>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2320>)
+
+
+
+#########  ACTUAR  #########
+7
+silflar
+
+
+
+
+Día 19 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 20/30
+Inventario 0/24
+Felicidad -35
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -25
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bfa58>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 19 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad -21
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+6
+DdV
+
+
+
+
+Día 19 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 14/20
+Inventario 14/20
+Felicidad -25
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4ef0>), 1), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+
+
+
+
+Día 19 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 10/18
+Inventario 12/18
+Felicidad 11
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4438>), 1), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 9/20
+Felicidad -21
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf940>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf940>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 8/20
+Inventario 20/20
+Felicidad -11
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+comer
+5
+migrar
+7
+silflar
+
+
+
+
+Día 20 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 18/30
+Inventario 0/24
+Felicidad -40
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -30
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2be0>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 20 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 8/18
+Inventario 12/18
+Felicidad 16
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bfd30>), 1), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad -26
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+6
+comer
+5
+comer
+
+
+
+
+Día 20 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 10/20
+Inventario 14/20
+Felicidad -30
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4f98>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+
+
+
+
+Día 20 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 14/18
+Inventario 18/20
+Felicidad -24
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bf828>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 8/20
+Felicidad -14
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2278>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56bf2e8>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2278>)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+7
+DdV
+
+
+
+
+PARIENDO
+8
+Día 21 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 16/30
+Inventario 0/24
+Felicidad -45
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -35
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c5730c88>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 21 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 6/12
+Inventario 0/12
+Felicidad 50
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 13.0/18
+Inventario 2/18
+Felicidad 23
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 13.0), (('Silflar', <planta.Planta object at 0x7f46c56c48d0>), 8), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 9/19
+Felicidad -29
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2c88>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2c88>)
+
+
+
+#########  ACTUAR  #########
+6
+silflar
+8
+llorar
+5
+DarComida
+
+
+
+
+Día 21 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 21 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 10/18
+Inventario 18/20
+Felicidad -29
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d24a8>), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 20/20
+Felicidad -17
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 8/20
+Inventario 14/20
+Felicidad -35
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c45c0>), 1), (('Reproducirse', <individuo.Conejo object at 0x7f46c56bf0b8>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+4
+comer
+7
+migrar
+
+
+
+
+Día 22 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 14/30
+Inventario 0/24
+Felicidad -50
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -40
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2710>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 22 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 5/13
+Inventario 2/13
+Felicidad 45
+Opciones
+[(('Comer',), 5), (('AlarmaHambre',), 5), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 11.0/18
+Inventario 0/18
+Felicidad 19.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf5c0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf5c0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 19/19
+Felicidad -32
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+6
+DdV
+8
+comer
+5
+silflar
+
+
+
+
+Día 22 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 18/20
+Felicidad -34
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4dd8>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+7
+comer
+
+
+
+
+Día 22 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 20/20
+Felicidad -22
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 20/20
+Inventario 2/20
+Felicidad -38
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2160>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56bf0b8>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2160>)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+4
+silflar
+
+
+
+
+Día 23 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 12/30
+Inventario 0/24
+Felicidad -55
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -45
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bfc18>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 23 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 7/14
+Inventario 0/14
+Felicidad 42
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 9.0/18
+Inventario 10/18
+Felicidad 16.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 9.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bf550>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad -37
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+6
+DdV
+8
+llorar
+5
+DarComida
+
+
+
+
+Día 23 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 8/20
+Felicidad -37
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4fd0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4fd0>)
+
+
+
+#########  ACTUAR  #########
+7
+silflar
+
+
+
+
+Día 23 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 20/20
+Felicidad -27
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 18/20
+Inventario 12/20
+Felicidad -41
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c5730e80>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+
+#########  ACTUAR  #########
+2
+migrar
+4
+migrar
+
+
+
+
+Día 24 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 10/30
+Inventario 0/24
+Felicidad -60
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c56bf198>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c56bf198>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 16/20
+Inventario 12/20
+Felicidad -46
+Opciones
+[(('Esconder',), 11), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2748>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf198>), 0)]
+('Esconder',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 15/19
+Felicidad -50
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bfc18>), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c56bf198>), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+0
+DdV
+Sa escapado
+
+
+
+
+Día 24 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 6/15
+Inventario 10/15
+Felicidad 37
+Opciones
+[(('Comer',), 5), (('AlarmaHambre',), 5), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 7.0/18
+Inventario 0/18
+Felicidad 16.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf4e0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf4e0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 8/20
+Inventario 20/20
+Felicidad -32
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad -42
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+comer
+6
+comer
+8
+comer
+5
+silflar
+
+
+
+
+Día 24 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 17/20
+Felicidad -40
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bf630>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 24 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 25 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 8/30
+Inventario 0/24
+Felicidad -65
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 16/20
+Inventario 12/20
+Felicidad -51
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2710>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 15/19
+Felicidad -55
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bfba8>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+Sa escapado
+
+
+
+
+Día 25 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 15/16
+Inventario 1/16
+Felicidad 34
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 0), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 5.0/18
+Inventario 10/18
+Felicidad 13.0
+Opciones
+[(('Comer',), 5), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 5.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4978>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 8/20
+Felicidad -35
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 20.0), (('Silflar', <planta.Planta object at 0x7f46c56c4a20>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 9/19
+Felicidad -45
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf518>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf518>)
+
+
+
+#########  ACTUAR  #########
+2
+DarComida
+6
+silflar
+8
+llorar
+5
+comer
+
+
+
+
+Día 25 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 12/18
+Inventario 17/20
+Felicidad -45
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bf7f0>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 25 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 26 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 6/30
+Inventario 0/24
+Felicidad -70
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 15/19
+Felicidad -60
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2a90>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 26 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 14/17
+Inventario 9/17
+Felicidad 29
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 0), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 15.0/18
+Inventario 0/18
+Felicidad 10.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4ba8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4ba8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 0/20
+Felicidad -36.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2e48>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2e48>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 18/19
+Felicidad -48
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4a90>), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+6
+DdV
+8
+llorar
+5
+silflar
+
+
+
+
+Día 26 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 17/20
+Felicidad -50
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4e80>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 14/20
+Inventario 12/20
+Felicidad -56
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bf710>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+7
+comer
+
+
+
+
+Día 26 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 27 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 4/30
+Inventario 0/24
+Felicidad -75
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 15/19
+Felicidad -65
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d25c0>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 27 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 13/18
+Inventario 9/18
+Felicidad 24
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 2), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 13.0/18
+Inventario 10/18
+Felicidad 7.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 13.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4860>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 16/20
+Inventario 12/20
+Felicidad -39.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 16.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2d68>), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 18/19
+Felicidad -53
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bf550>), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+DarComida
+6
+DdV
+8
+llorar
+5
+DarComida
+
+
+
+
+Día 27 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 7/20
+Felicidad -53
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4160>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4160>)
+
+
+
+#########  ACTUAR  #########
+7
+silflar
+
+
+
+
+Día 27 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 12/20
+Inventario 12/20
+Felicidad -61
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c42b0>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+
+
+
+
+Día 28 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Zorro object at 0x7f46c56bf390> 0
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Zorro object at 0x7f46c56bf390> 0
+Energia 2/30
+Inventario 0/24
+Felicidad -80
+Opciones
+[(('Silflar', <individuo.Conejo object at 0x7f46c5730f98>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Zorro object at 0x7f46c56bf390>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <individuo.Conejo object at 0x7f46c5730f98>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 15/19
+Felicidad -70
+Opciones
+[(('Esconder',), 11), (('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bfc18>), 0), (('Descansar',), 0), (('Defender', <individuo.Conejo object at 0x7f46c5730f98>), 0)]
+('Esconder',)
+
+
+
+#########  ACTUAR  #########
+Sa escapado
+
+
+
+
+Día 28 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 12/19
+Inventario 18/19
+Felicidad 19
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 2), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 11.0/18
+Inventario 10/18
+Felicidad 2.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 11.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4ac8>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 3/20
+Felicidad -39.5
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 14.0), (('Silflar', <planta.Planta object at 0x7f46c56bfcf8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 10/20
+Inventario 12/20
+Felicidad -66
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2f28>), 1), (('DanzaDelVientre',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 18/19
+Felicidad -58
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2cc0>), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+DarComida
+4
+migrar
+6
+comer
+8
+llorar
+5
+DarComida
+
+
+
+
+Día 28 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 16/20
+Felicidad -56
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2080>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 28 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 29 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 8/20
+Inventario 12/20
+Felicidad -71
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4630>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 15/19
+Felicidad -75
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2908>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+comer
+0
+DdV
+
+
+
+
+Día 29 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 11/20
+Inventario 19/20
+Felicidad 14
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 2), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 9.0/18
+Inventario 10/18
+Felicidad -3.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 9.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2cc0>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 12/20
+Inventario 2/20
+Felicidad -44.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 12.0), (('Silflar', <planta.Planta object at 0x7f46c56d2dd8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56c4588>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 8/19
+Felicidad -61
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bfda0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bfda0>)
+
+
+
+#########  ACTUAR  #########
+2
+DarComida
+6
+silflar
+8
+llorar
+5
+DarComida
+
+
+
+
+Día 29 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 12/18
+Inventario 16/20
+Felicidad -61
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bf6a0>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 29 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 30 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 20/20
+Inventario 0/20
+Felicidad -74
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d28d0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d28d0>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 8/18
+Inventario 15/19
+Felicidad -80
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2908>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+0
+comer
+
+
+
+
+Día 30 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 10/21
+Inventario 20/21
+Felicidad 9
+Opciones
+[(('Comer',), 5), (('AlarmaHambre',), 5), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 7.0/18
+Inventario 10/18
+Felicidad -8.0
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4b38>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 1/20
+Felicidad -48.5
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4c88>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4c88>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 19/19
+Felicidad -64
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+6
+DdV
+8
+comer
+5
+comer
+
+
+
+
+Día 30 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 16/20
+Felicidad -66
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4240>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+7
+comer
+
+
+
+
+Día 30 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 31 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 18/20
+Inventario 7/20
+Felicidad -77
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2588>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2588>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 5/19
+Felicidad -83
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d26a0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d26a0>)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+0
+silflar
+
+
+
+
+Día 31 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 17.0/18
+Inventario 0/18
+Felicidad -11.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2c50>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2c50>)
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 21/22
+Inventario 9/22
+Felicidad 50
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bfd68>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bfd68>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 8/20
+Inventario 18/20
+Felicidad -51.5
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4b38>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad -69
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+2
+comer
+6
+DdV
+8
+silflar
+5
+silflar
+
+
+
+
+Día 31 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 6/20
+Felicidad -69
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4160>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4160>)
+
+
+
+#########  ACTUAR  #########
+7
+silflar
+
+
+
+
+Día 31 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 32 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 16/20
+Inventario 18/20
+Felicidad -80
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56bf128>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 16/19
+Felicidad -86
+Opciones
+[(('Reproducirse', <individuo.Conejo object at 0x7f46c56bf198>), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4748>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Reproducirse', <individuo.Conejo object at 0x7f46c56bf198>)
+
+
+
+#########  ACTUAR  #########
+4
+DdV
+0
+procrear
+
+
+
+
+Día 32 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 15.0/18
+Inventario 11/18
+Felicidad -14.0
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2e10>), 1), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 19/22
+Inventario 19/22
+Felicidad 47
+Opciones
+[(('Reproducirse', <individuo.Conejo object at 0x7f46c56bf208>), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2d68>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Reproducirse', <individuo.Conejo object at 0x7f46c56bf208>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 6/20
+Felicidad -54.5
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2e48>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56bf208>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2e48>)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad -74
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+2
+silflar
+6
+comer
+8
+procrear
+5
+DdV
+
+
+
+
+Día 32 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 15/20
+Felicidad -72
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4f60>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 32 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 33 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 12/20
+Inventario 18/20
+Felicidad -65
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c5730c88>), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 16/19
+Felicidad -71
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c5730c88>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+0
+DdV
+
+
+
+
+Día 33 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 11.0/18
+Inventario 11/18
+Felicidad 1.0
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4a20>), 1), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 15/22
+Inventario 19/22
+Felicidad 62
+Opciones
+[(('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2dd8>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 20/20
+Felicidad -57.5
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 18/18
+Inventario 9/19
+Felicidad -77
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4be0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4be0>)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+6
+silflar
+8
+DdV
+5
+migrar
+
+
+
+
+Día 33 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 12/18
+Inventario 15/20
+Felicidad -77
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56c4128>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 33 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 34 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 8/18
+Inventario 16/19
+Felicidad -76
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2630>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+0
+comer
+
+
+
+
+Día 34 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 11/22
+Inventario 19/22
+Felicidad 57
+Opciones
+[(('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4908>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 14/20
+Inventario 20/20
+Felicidad -62.5
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 16/18
+Inventario 19/19
+Felicidad -80
+Opciones
+[(('Reproducirse', <individuo.Conejo object at 0x7f46c56bf0b8>), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 0), (('Descansar',), 0)]
+('Reproducirse', <individuo.Conejo object at 0x7f46c56bf0b8>)
+
+
+
+#########  ACTUAR  #########
+2
+DdV
+6
+procrear
+8
+comer
+
+
+
+
+Día 34 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 15/20
+Felicidad -82
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56c4da0>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+7
+comer
+
+
+
+
+Día 34 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 9.0/18
+Inventario 11/18
+Felicidad 6.0
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d24a8>), 1), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 10/20
+Inventario 18/20
+Felicidad -60
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2470>), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c571e588>))
+
+
+
+#########  ACTUAR  #########
+4
+migrar
+5
+migrar
+
+
+
+
+Día 35 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 7.0/18
+Inventario 11/18
+Felicidad 11.0
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2a90>), 1), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 6/19
+Felicidad -79
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2b00>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2b00>)
+
+
+
+#########  ACTUAR  #########
+0
+silflar
+5
+comer
+
+
+
+
+Día 35 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 22/22
+Inventario 8/22
+Felicidad 54
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf550>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf550>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 10/20
+Inventario 20/20
+Felicidad -47.5
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5714710>))
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 8/20
+Inventario 18/20
+Felicidad -55
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2f28>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 12/18
+Inventario 19/19
+Felicidad -65
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>))
+
+
+
+#########  ACTUAR  #########
+2
+migrar
+4
+comer
+6
+migrar
+8
+silflar
+
+
+
+
+Día 35 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 5/20
+Felicidad -85
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c40f0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c40f0>)
+
+
+
+#########  ACTUAR  #########
+7
+silflar
+
+
+
+
+Día 35 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+PARIENDO
+9
+PARIENDO
+10
+Día 36 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+Energia 5/10
+Inventario 0/11
+Felicidad 50
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 12.5/18
+Inventario 0.0/18
+Felicidad 18.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4780>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4780>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 8/20
+Inventario 20/20
+Felicidad -52.5
+Opciones
+[(('Comer',), 5), (('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 4.0), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 16/18
+Inventario 17/19
+Felicidad -82
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56d2550>), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+9
+llorar
+2
+comer
+0
+DdV
+5
+silflar
+
+
+
+
+Día 36 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d5278> 10
+0
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56d5278> 10
+Energia 4/8
+Inventario 0/8
+Felicidad 50
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 20/22
+Inventario 18/22
+Felicidad 51
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56d2d68>), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56d5278>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 14.0/20
+Inventario 6/20
+Felicidad -48
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d5278>), 14.0), (('Silflar', <planta.Planta object at 0x7f46c56d2eb8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Comer',), 2), (('Reproducirse', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d5278>)
+
+
+
+#########  ACTUAR  #########
+4
+DarComida
+10
+llorar
+8
+DdV
+
+
+
+
+Día 36 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 16/18
+Inventario 15/20
+Felicidad -88
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Silflar', <planta.Planta object at 0x7f46c56c4f60>), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 10/18
+Inventario 19/19
+Felicidad -60
+Opciones
+[(('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Descansar',), 0)]
+('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730c50>))
+
+
+
+#########  ACTUAR  #########
+6
+migrar
+7
+DdV
+
+
+
+
+Día 36 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+
+
+
+#########  ACTUAR  #########
+
+
+
+
+Día 37 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+Energia 4/11
+Inventario 0/12
+Felicidad 45
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 10.5/18
+Inventario 10.0/18
+Felicidad 15.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 10.5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bfb70>), 1), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 20/20
+Inventario 8/20
+Felicidad -55.5
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 10.0), (('Silflar', <planta.Planta object at 0x7f46c56d2ba8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 12/18
+Inventario 17/19
+Felicidad -87
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56d2860>), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+9
+llorar
+2
+DarComida
+0
+DdV
+5
+DarComida
+
+
+
+
+Día 37 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d5278> 10
+0
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56d5278> 10
+Energia 3/9
+Inventario 6/9
+Felicidad 45
+Opciones
+[(('Comer',), 5), (('AlarmaHambre',), 5), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 16/22
+Inventario 18/22
+Felicidad 46
+Opciones
+[(('DanzaDelVientre',), 9), (('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5730a58>)), 1), (('Silflar', <planta.Planta object at 0x7f46c56c4828>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 12.0/20
+Inventario 0/20
+Felicidad -50.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56c4c18>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('Reproducirse', <individuo.Conejo object at 0x7f46c56c4588>), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56c4c18>)
+
+
+
+#########  ACTUAR  #########
+4
+silflar
+10
+comer
+8
+DdV
+
+
+
+
+Día 37 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 12/18
+Inventario 15/20
+Felicidad -93
+Opciones
+[(('DanzaDelVientre',), 9), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('Comer',), 2), (('Silflar', <planta.Planta object at 0x7f46c56bfe80>), 0), (('Descansar',), 0)]
+('DanzaDelVientre',)
+
+
+
+#########  ACTUAR  #########
+7
+DdV
+
+
+
+
+Día 37 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 8/18
+Inventario 19/19
+Felicidad -55
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+6
+comer
+
+
+
+
+PARIENDO
+11
+Día 38 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+Energia 3/12
+Inventario 12/13
+Felicidad 40
+Opciones
+[(('Comer',), 5), (('AlarmaHambre',), 5), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 8.5/18
+Inventario 6.0/18
+Felicidad 12.0
+Opciones
+[(('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56c4c88>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 18/20
+Inventario 0/20
+Felicidad -58.5
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2898>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2898>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 8/18
+Inventario 17/19
+Felicidad -92
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2a20>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+9
+comer
+2
+silflar
+0
+comer
+5
+comer
+
+
+
+
+Día 38 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d5278> 10
+0
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56d5278> 10
+Energia 9/10
+Inventario 0/10
+Felicidad 42
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 12/22
+Inventario 18/22
+Felicidad 41
+Opciones
+[(('Comer',), 2), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5730c50>)), 1), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2cf8>), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56d5278>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 10.0/20
+Inventario 17/20
+Felicidad -53.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d5278>), 10.0), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56d2c50>), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d5278>)
+
+
+
+#########  ACTUAR  #########
+4
+DarComida
+10
+llorar
+8
+comer
+
+
+
+
+Día 38 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 8/18
+Inventario 15/20
+Felicidad -98
+Opciones
+[(('Comer',), 5), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Silflar', <planta.Planta object at 0x7f46c56bff98>), 0), (('Descansar',), 0)]
+('Comer',)
+
+
+
+#########  ACTUAR  #########
+7
+comer
+
+
+
+
+Día 38 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d5128> 11
+0
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56d5128> 11
+Energia 4/8
+Inventario 0/11
+Felicidad 50
+Opciones
+[(('AlarmaHambre',), 5), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 13.0/18
+Inventario 9/19
+Felicidad -48
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d5128>), 13.0), (('Silflar', <planta.Planta object at 0x7f46c56c4390>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('Comer',), 2), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d5128>)
+
+
+
+#########  ACTUAR  #########
+6
+DarComida
+11
+llorar
+
+
+
+
+Día 39 en <mapa.Territorio object at 0x7f46c5714710>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+0
+<individuo.Conejo object at 0x7f46c56bf208> 5
+6
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+11
+<individuo.Conejo object at 0x7f46c5730f98> 0
+16
+
+
+<individuo.Conejo object at 0x7f46c56d50b8> 9
+Energia 12/13
+Inventario 3/14
+Felicidad 37
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 0), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56bf208> 5
+Energia 14.5/18
+Inventario 0.0/18
+Felicidad 9.0
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2be0>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf208>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2be0>)
+
+
+<individuo.Conejo object at 0x7f46c56bf0b8> 2
+Energia 16/20
+Inventario 8/20
+Felicidad -61.5
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 8.0), (('Silflar', <planta.Planta object at 0x7f46c56d2be0>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c56bf0b8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>)
+
+
+<individuo.Conejo object at 0x7f46c5730f98> 0
+Energia 18/18
+Inventario 7/19
+Felicidad -95
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2b70>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5714710>, <individuo.Conejo object at 0x7f46c5730f98>, <mapa.Territorio object at 0x7f46c5730c50>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56d50b8>), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2b70>)
+
+
+
+#########  ACTUAR  #########
+9
+llorar
+2
+DarComida
+0
+silflar
+5
+silflar
+
+
+
+
+Día 39 en <mapa.Territorio object at 0x7f46c571e588>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d5278> 10
+0
+<individuo.Conejo object at 0x7f46c56c4588> 8
+11
+<individuo.Conejo object at 0x7f46c56bf198> 4
+11
+
+
+<individuo.Conejo object at 0x7f46c56d5278> 10
+Energia 8/11
+Inventario 10/11
+Felicidad 37
+Opciones
+[(('AlarmaHambre',), 5), (('Comer',), 2), (('Descansar',), 0)]
+('AlarmaHambre',)
+
+
+<individuo.Conejo object at 0x7f46c56c4588> 8
+Energia 22/22
+Inventario 8/22
+Felicidad 38
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d2cf8>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56c4588>, <mapa.Territorio object at 0x7f46c5714710>)), 1), (('DanzaDelVientre',), 0), (('Comer',), 0), (('DarComida', <individuo.Conejo object at 0x7f46c56d5278>), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d2cf8>)
+
+
+<individuo.Conejo object at 0x7f46c56bf198> 4
+Energia 8.0/20
+Inventario 7/20
+Felicidad -53.0
+Opciones
+[(('DarComida', <individuo.Conejo object at 0x7f46c56d5278>), 8.0), (('Comer',), 5), (('Silflar', <planta.Planta object at 0x7f46c56d2d68>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c571e588>, <individuo.Conejo object at 0x7f46c56bf198>, <mapa.Territorio object at 0x7f46c5730a58>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('DarComida', <individuo.Conejo object at 0x7f46c56d5278>)
+
+
+
+#########  ACTUAR  #########
+4
+DarComida
+10
+llorar
+8
+silflar
+
+
+
+
+Día 39 en <mapa.Territorio object at 0x7f46c5730a58>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+8
+
+
+<individuo.Conejo object at 0x7f46c56bf2e8> 7
+Energia 18/18
+Inventario 5/20
+Felicidad -101
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56bf748>), 3), (('Migrar', (<mapa.Territorio object at 0x7f46c5730a58>, <individuo.Conejo object at 0x7f46c56bf2e8>, <mapa.Territorio object at 0x7f46c571e588>)), 3), (('DanzaDelVientre',), 0), (('Comer',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56bf748>)
+
+
+
+#########  ACTUAR  #########
+7
+silflar
+
+
+
+
+Día 39 en <mapa.Territorio object at 0x7f46c5730c50>
+#########  DECLARAR  #########
+<individuo.Conejo object at 0x7f46c56d5128> 11
+0
+<individuo.Conejo object at 0x7f46c56bf278> 6
+16
+
+
+<individuo.Conejo object at 0x7f46c56d5128> 11
+Energia 3/9
+Inventario 9/12
+Felicidad 45
+Opciones
+[(('Comer',), 5), (('AlarmaHambre',), 5), (('Descansar',), 0)]
+('Comer',)
+
+
+<individuo.Conejo object at 0x7f46c56bf278> 6
+Energia 11.0/18
+Inventario 0/19
+Felicidad -48.5
+Opciones
+[(('Silflar', <planta.Planta object at 0x7f46c56d24a8>), 8), (('Migrar', (<mapa.Territorio object at 0x7f46c5730c50>, <individuo.Conejo object at 0x7f46c56bf278>, <mapa.Territorio object at 0x7f46c5714710>)), 3), (('DanzaDelVientre',), 0), (('Descansar',), 0)]
+('Silflar', <planta.Planta object at 0x7f46c56d24a8>)
+
+
+
+#########  ACTUAR  #########
+6
+silflar
+11
+comer
+
+
+
+
